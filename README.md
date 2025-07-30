@@ -86,8 +86,7 @@ This repository is protected under ARCSEC Protocol WAR MODE
 
 ## 📜 License
 
-This repository is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html)
-
+see license
 ---
 
 ## 💬 Contact
